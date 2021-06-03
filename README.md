@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ryan
+- 👋 Hi, I’m Ryan.
 - 👀 I’m interested in data analytics/data science
 - 🌱 I’m currently learning data science with Python and R. 
-- 📫 How to reach me double9209@gmail.com
+- 📫 email: double9209@gmail.com
 
 <!---
 double9209/double9209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
