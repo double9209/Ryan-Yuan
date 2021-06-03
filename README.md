@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan.
-- 👀 I’m interested in data analytics/data science
+- 👀 I’m interested in data analytics / data science
 - 🌱 I’m currently learning data science with Python and R. 
 - 📫 email: double9209@gmail.com
 
